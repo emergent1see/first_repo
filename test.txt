@@ -1,0 +1,3 @@
+Hello world, this is a test file
+I am commiting it from git bash, 
+on my local machine :)
